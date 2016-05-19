@@ -1,0 +1,15 @@
+D:\CSharpWork\CAN-Code1110\WindowsApplication1\obj\Debug\GYKDataAnalyzer.exe
+D:\CSharpWork\CAN-Code1110\WindowsApplication1\obj\Debug\GYKDataAnalyzer.pdb
+D:\CSharpWork\CAN-Code1110\WindowsApplication1\bin\debug\GYKDataAnalyzer.exe
+D:\CSharpWork\CAN-Code1110\WindowsApplication1\bin\debug\GYKDataAnalyzer.pdb
+D:\CSharpWork\CAN-Code1110\WindowsApplication1\obj\Debug\GYKDataAnalyzer.Form1.resources
+D:\CSharpWork\CAN-Code1110\WindowsApplication1\obj\Debug\GYKDataAnalyzer.Properties.Resources.resources
+D:\CSharpWork\CAN-Code1110\WindowsApplication1\obj\Debug\GYKDataAnalyzer.csproj.GenerateResource.Cache
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\obj\Debug\GYKDataAnalyzer.exe
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\obj\Debug\GYKDataAnalyzer.pdb
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\bin\debug\GYKDataAnalyzer.exe
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\bin\debug\GYKDataAnalyzer.pdb
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\obj\Debug\GYKDataAnalyzer.csprojResolveAssemblyReference.cache
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\obj\Debug\GYKDataAnalyzer.Form1.resources
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\obj\Debug\GYKDataAnalyzer.Properties.Resources.resources
+D:\CSharpWork\CAN-Code1110 - Copy\WindowsApplication1\obj\Debug\GYKDataAnalyzer.csproj.GenerateResource.Cache
